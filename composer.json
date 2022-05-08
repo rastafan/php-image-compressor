@@ -1,5 +1,6 @@
 {
   "name": "tihiy-production/php-image-compressor",
+  "type": "library",
   "description": "ImageCompressor - this is an easy way to compress images on the fly",
   "keywords": [
     "php",
